@@ -1,0 +1,52 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(255, 255, 255);
+}
+
+.cont-main {
+  height: 750px;
+  background-color: #b8ffff;
+  width: 1700px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 100px auto 0 auto;
+}
+
+.cont-sec {
+  background-color: white;
+  height: 450px;
+  width: 350px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  flex-direction: column;
+  text-align: start;
+  border-radius: 5%;
+}
+
+.nus {
+  margin-bottom: 30px;
+  margin-left: 80px;
+  margin-right: 80px;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  max-width: 50000px;
+}
+
+.Mini {
+  margin-bottom: 40px;
+  margin-right: 50px;
+  margin-left: 50px;
+  font-size: 14px;
+  color: gray;
+}
+
+#qr {
+  margin: auto;
+  border-radius: 10%;
+}
